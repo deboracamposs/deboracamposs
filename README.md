@@ -4,9 +4,9 @@
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://github.com/anuraghazra/github-readme-stats ">
-    <img height=200 align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=deboracamposs&theme=radical&mode=weekly" />
+    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=deboracamposs&theme=radical&mode=weekly" />
 <a href="https://github.com/anuraghazra/convoychat">
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracamposs&layout=compact&langs_count=8&icons=true&theme=radical" />
+    <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracamposs&layout=compact&langs_count=8&icons=true&theme=radical" />
   </a>
  </div>
  &nbsp;
