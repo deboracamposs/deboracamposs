@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/deboracamposs/deboracamposs/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">I ❤️ discover new thing with tech. <br><br> From biology and now I am <strong> discovering new stuffs</strong> in this new journey in my life. Today, I'm a <strong>DEV student</strong> focused on learn more and more about this gigant tecnhological world.</p>&nbsp;
