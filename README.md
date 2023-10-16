@@ -4,12 +4,13 @@
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://github.com/anuraghazra/github-readme-stats ">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=deboracamposs&show&layout=compact&icons=true&theme=radical" />
+    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=deboracamposs&theme=radical&mode=weekly" />
 <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracamposs&layout=compact&langs_count=8&icons=true&theme=radical" />
   </a>
  </div>
- 
+ &nbsp;
+ &nbsp;
 
 ## Studying in this moment:
 
@@ -21,8 +22,9 @@
 
 ## Workstation Tools:
 
-![pycharm]
-
+![PyCharme](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
+&nbsp;
+&nbsp;
 
 ## Contacts:
 
