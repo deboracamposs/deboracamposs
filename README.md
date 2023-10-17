@@ -1,6 +1,7 @@
 
 
-<p align="center">Discovering new things with tech ❤️ <br><br> From biology and now I am <strong> discovering new stuffs</strong> in this new journey in my life. Today, I'm a <strong>DEV student</strong> focused on learn more and more about this gigant tecnhological world.</p>&nbsp;
+<p align="center">"Discovering new things with tech ❤️
+From biology and now, I am discovering new things on this new journey in my life. Today, I'm a DEV student, focused on learning more and more about this giant technological world.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <a href="https://github.com/anuraghazra/github-readme-stats ">
