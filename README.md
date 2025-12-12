@@ -1,41 +1,86 @@
+# Débora Campos | Desenvolvedora Full-Stack & Backend (2 Anos de Experiência)
 
+<h3 align="center">Especialista em Python e Desenvolvimento Orientado a Dados (TypeScript)</h3>
 
-<p align="center">Discovering new things with tech ❤️
-<p>From biology and now, I am discovering new things on this new journey in my life. Today, I'm a DEV student, focused on learning more and more about this giant technological world.</p>&nbsp;
+---
 
-<div  align="center" style="margin-bottom:100px">
-<a href="https://github.com/anuraghazra/github-readme-stats ">
-    <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=deboracamposs&theme=radical&mode=weekly" />
-    </a>
-<a href="https://github.com/anuraghazra/convoychat">
-    <img width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracamposs&layout=compact&langs_count=8&icons=true&theme=radical" />
-    </a>
- </div>
- &nbsp;
- &nbsp;
+### 👋 Sobre Mim
 
-## Studying in this moment:
+Desenvolvedora com **2 anos de experiência** no desenvolvimento de software, com foco principal em **Python** no Backend e **TypeScript/JavaScript** no Full-Stack.
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+Possuo um histórico comprovado na entrega de projetos funcionais, aplicando boas práticas de Programação Orientada a Objetos (POO) e controle de versão eficiente via Git/GitHub. Sou movida pela curiosidade técnica e busco constantemente aprimorar minhas soluções de código e arquitetura.
 
+**Especialização Técnica:** Backend em Python e desenvolvimento Full-Stack com foco em alta performance e escalabilidade.
 
+---
 
-<img src="" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+### ⚙️ Habilidades Técnicas Chave
 
+Minha proficiência técnica abrange todo o ciclo de desenvolvimento, desde a concepção da lógica até o deploy.
 
-## Workstation Tools:
+| Categoria | Tecnologias Proficientes |
+| :---: | :---: |
+| **Linguagens** | **Python**, **TypeScript**, JavaScript, HTML5, CSS3 |
+| **Backend** | (Preencha: Ex: Django, Flask, Node.js, Express) |
+| **Frontend** | (Preencha: Ex: React, Next.js, Vue.js, Angular) |
+| **Banco de Dados** | (Preencha: Ex: PostgreSQL, MySQL, MongoDB, SQLite) |
+| **DevOps & VCS** | Git, GitHub, Integração Contínua (CI/CD - se aplicável), Containers (Docker - se aplicável) |
+| **Ferramentas de Trabalho**| PyCharm, Visual Studio Code, ambientes de nuvem (AWS/Azure/GCP - se aplicável) |
 
-![PyCharme](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
-&nbsp;
-&nbsp;
+<br>
 
-## Contacts:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+</p>
 
-<div> 
-<a href="[https://www.instagram.com/rafa.alexandrino](https://www.instagram.com/dekacampozz/)" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:deboraccamposs@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+---
 
+### 💡 Portfólio de Projetos
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+Os repositórios fixados abaixo demonstram minha aplicação prática das tecnologias listadas.
+
+| Repositório | Foco Principal | Demonstração de Competência |
+| :--- | :--- | :--- |
+| **[Bootcamp-Python-DIO]** | Python, Lógica de Negócio | Prova de domínio em lógica de Backend, estruturas de dados e desenvolvimento orientado a testes (se aplicável). |
+| **[Projeto-Conta-Bancaria]** | TypeScript, POO Avançada | Uso de Design Patterns e Programação Orientada a Objetos em uma arquitetura de sistema robusta. |
+| **[Generation-Brasil-Bootcamp]** | Full-Stack, Integração | Habilidade de integrar o Backend (Python) com o Frontend (TS) para criar soluções completas (End-to-End). |
+
+> ➡️ **Próximo Nível:** Para projetos de 2 anos de experiência, inclua testes de unidade/integração no código e mencione isso no README do projeto.
+
+---
+
+### 📈 Compromisso e Consistência (Estatísticas)
+
+Minha atividade no GitHub reflete meu engajamento e a dedicação contínua ao desenvolvimento de código.
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deboracamposs&theme=radical&mode=weekly" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracamposs&layout=compact&langs_count=8&icons=true&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 📞 Conecte-se Comigo
+
+Estou aberta a oportunidades de desenvolvimento desafiadoras e projetos inovadores.
+
+| Meio de Contato | Link |
+| :---: | :---: |
+| **E-mail** | deboraccamposs@gmail.com |
+| **LinkedIn** | (Link para o seu perfil do LinkedIn) |
+| **Portfólio Pessoal** | (Se tiver um site, adicione aqui!) |
+
+<br>
+
+<p align="center">
+  <a href="mailto:deboraccamposs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="(Link do seu LinkedIn)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<h6 align="center">Código limpo, commit significativo, valor entregue.</h6>
