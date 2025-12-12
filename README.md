@@ -71,6 +71,7 @@ Estou aberta a oportunidades de desenvolvimento desafiadoras e projetos inovador
 | **E-mail** | deboraccamposs@gmail.com |
 | **LinkedIn** | https://www.linkedin.com/in/debora-campos-34515a1b9/ |
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 <br>
 
