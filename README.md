@@ -1,12 +1,12 @@
-# Débora Campos | Desenvolvedora Full-Stack & Backend (2 Anos de Experiência)
+# Débora Campos | Desenvolvedora Full-Stack 
 
-<h3 align="center">Especialista em Python e Desenvolvimento Orientado a Dados (TypeScript)</h3>
+<h3 align="center">Prazer em lhe conhecer!</h3>
 
 ---
 
 ### 👋 Sobre Mim
 
-Desenvolvedora com **2 anos de experiência** no desenvolvimento de software, com foco principal em **Python** no Backend e **TypeScript/JavaScript** no Full-Stack.
+Desenvolvedora com foco principal em **Python** no Backend e **TypeScript/JavaScript** no Full-Stack.
 
 Possuo um histórico comprovado na entrega de projetos funcionais, aplicando boas práticas de Programação Orientada a Objetos (POO) e controle de versão eficiente via Git/GitHub. Sou movida pela curiosidade técnica e busco constantemente aprimorar minhas soluções de código e arquitetura.
 
@@ -21,11 +21,7 @@ Minha proficiência técnica abrange todo o ciclo de desenvolvimento, desde a co
 | Categoria | Tecnologias Proficientes |
 | :---: | :---: |
 | **Linguagens** | **Python**, **TypeScript**, JavaScript, HTML5, CSS3 |
-| **Backend** | (Preencha: Ex: Django, Flask, Node.js, Express) |
-| **Frontend** | (Preencha: Ex: React, Next.js, Vue.js, Angular) |
-| **Banco de Dados** | (Preencha: Ex: PostgreSQL, MySQL, MongoDB, SQLite) |
-| **DevOps & VCS** | Git, GitHub, Integração Contínua (CI/CD - se aplicável), Containers (Docker - se aplicável) |
-| **Ferramentas de Trabalho**| PyCharm, Visual Studio Code, ambientes de nuvem (AWS/Azure/GCP - se aplicável) |
+| **Ferramentas de Trabalho**| Visual Studio Code, Git |
 
 <br>
 
@@ -44,11 +40,9 @@ Os repositórios fixados abaixo demonstram minha aplicação prática das tecnol
 
 | Repositório | Foco Principal | Demonstração de Competência |
 | :--- | :--- | :--- |
-| **[Bootcamp-Python-DIO]** | Python, Lógica de Negócio | Prova de domínio em lógica de Backend, estruturas de dados e desenvolvimento orientado a testes (se aplicável). |
 | **[Projeto-Conta-Bancaria]** | TypeScript, POO Avançada | Uso de Design Patterns e Programação Orientada a Objetos em uma arquitetura de sistema robusta. |
 | **[Generation-Brasil-Bootcamp]** | Full-Stack, Integração | Habilidade de integrar o Backend (Python) com o Frontend (TS) para criar soluções completas (End-to-End). |
 
-> ➡️ **Próximo Nível:** Para projetos de 2 anos de experiência, inclua testes de unidade/integração no código e mencione isso no README do projeto.
 
 ---
 
@@ -75,8 +69,8 @@ Estou aberta a oportunidades de desenvolvimento desafiadoras e projetos inovador
 | Meio de Contato | Link |
 | :---: | :---: |
 | **E-mail** | deboraccamposs@gmail.com |
-| **LinkedIn** | (Link para o seu perfil do LinkedIn) |
-| **Portfólio Pessoal** | (Se tiver um site, adicione aqui!) |
+| **LinkedIn** | https://www.linkedin.com/in/debora-campos-34515a1b9/ |
+
 
 <br>
 
