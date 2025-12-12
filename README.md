@@ -50,12 +50,10 @@ Os repositórios fixados abaixo demonstram minha aplicação prática das tecnol
 
 Minha atividade no GitHub reflete meu engajamento e a dedicação contínua ao desenvolvimento de código.
 
-<p align="left">
+<p align="center">
   <img alt="Débora Campos - Estatísticas do GitHub" 
        src="https://github-readme-stats.vercel.app/api?username=deboracamposs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&hide=stars" />
-</p>
-
-<p align="center">
+  
   <img alt="Linguagens mais usadas" 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracamposs&layout=compact&langs_count=8&icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
