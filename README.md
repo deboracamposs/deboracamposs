@@ -41,7 +41,7 @@ Os repositórios fixados abaixo demonstram minha aplicação prática das tecnol
 | Repositório | Foco Principal | Demonstração de Competência |
 | :--- | :--- | :--- |
 | **[Projeto-Conta-Bancaria](https://github.com/deboracamposs/Projeto-Conta-Bancaria---Generation-Brasil)** | TypeScript, POO Avançada | Uso de Design Patterns e Programação Orientada a Objetos em uma arquitetura de sistema robusta. |
-| **[Generation-Brasil-Bootcamp]** | Full-Stack, Integração | Habilidade de integrar o Backend (Python) com o Frontend (TS) para criar soluções completas (End-to-End). |
+| **[Generation-Brasil-Bootcamp](https://github.com/deboracamposs/Generation-Brasil---Bootcamp-JavaScript-FullStack-Developer-2025)** | Full-Stack, Integração | Habilidade de integrar o Backend (Python) com o Frontend (TS) para criar soluções completas (End-to-End). |
 
 
 ---
