@@ -6,7 +6,7 @@
 
 ### 👋 Sobre Mim
 
-Desenvolvedora com foco principal atualmente Desenvolvimento Full-Stack.
+Desenvolvedora com foco atualmente em Desenvolvimento Full-Stack.
 
 Possuo um histórico comprovado na entrega de projetos funcionais, aplicando boas práticas de Programação Orientada a Objetos (POO) e controle de versão eficiente via Git/GitHub. Sou movida pela curiosidade técnica e busco constantemente aprimorar minhas soluções de código e arquitetura.
 
