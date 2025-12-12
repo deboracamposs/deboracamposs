@@ -40,7 +40,7 @@ Os repositórios fixados abaixo demonstram minha aplicação prática das tecnol
 
 | Repositório | Foco Principal | Demonstração de Competência |
 | :--- | :--- | :--- |
-| **[Projeto-Conta-Bancaria]** | TypeScript, POO Avançada | Uso de Design Patterns e Programação Orientada a Objetos em uma arquitetura de sistema robusta. |
+| **[Projeto-Conta-Bancaria](https://github.com/deboracamposs/Projeto-Conta-Bancaria---Generation-Brasil)** | TypeScript, POO Avançada | Uso de Design Patterns e Programação Orientada a Objetos em uma arquitetura de sistema robusta. |
 | **[Generation-Brasil-Bootcamp]** | Full-Stack, Integração | Habilidade de integrar o Backend (Python) com o Frontend (TS) para criar soluções completas (End-to-End). |
 
 
@@ -76,7 +76,7 @@ Estou aberta a oportunidades de desenvolvimento desafiadoras e projetos inovador
 
 <p align="center">
   <a href="mailto:deboraccamposs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-  <a href="(Link do seu LinkedIn)"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/debora-campos-34515a1b9/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <h6 align="center">Código limpo, commit significativo, valor entregue.</h6>
