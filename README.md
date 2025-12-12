@@ -57,13 +57,16 @@ Os repositórios fixados abaixo demonstram minha aplicação prática das tecnol
 Minha atividade no GitHub reflete meu engajamento e a dedicação contínua ao desenvolvimento de código.
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deboracamposs&theme=radical&mode=weekly" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=deboracamposs&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracamposs&layout=compact&langs_count=8&icons=true&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracamposs&layout=compact&langs_count=8&icons=true&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
-
 ---
 
 ### 📞 Conecte-se Comigo
