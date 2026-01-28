@@ -1,80 +1,53 @@
-#  <h1 align="center">Hi, I'm Débora Campos</h1>
+# Olá, eu sou a Débora Campos! 👋
+
+### Desenvolvedora Full Stack em constante evolução
+
+Sou apaixonada por tecnologia e por transformar ideias em código. Tenho experiência com metodologias ágeis e foco no ecossistema JavaScript/TypeScript, buscando sempre criar soluções eficientes e escaláveis.
 
 ---
 
-### 👋 Sobre Mim
+### 🛠️ Minhas Tecnologias & Ferramentas
 
-Desenvolvedora com foco atualmente em Desenvolvimento Full-Stack.
+- **Linguagens:** ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-Possuo um histórico comprovado na entrega de projetos funcionais, aplicando boas práticas de Programação Orientada a Objetos (POO) e controle de versão eficiente via Git/GitHub. Sou movida pela curiosidade técnica e busco constantemente aprimorar minhas soluções de código e arquitetura.
+- **Front-end:**
+  ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Especialização Técnica:** Backend em Python e desenvolvimento Full-Stack com foco em alta performance e escalabilidade.
-
----
-
-### ⚙️ Habilidades Técnicas Chave
-
-Minha proficiência técnica abrange todo o ciclo de desenvolvimento, desde a concepção da lógica até o deploy.
-
-| Categoria | Tecnologias Proficientes |
-| :---: | :---: |
-| **Linguagens** | **Python**, **TypeScript**, JavaScript, HTML5, CSS3 |
-| **Ferramentas de Trabalho**| Visual Studio Code, Git |
-
-<br>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
-</p>
+- **Back-end & DB:**
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 💡 Portfólio de Projetos
+### 📊 Estatísticas do GitHub
 
-Os repositórios fixados abaixo demonstram minha aplicação prática das tecnologias listadas.
-
-| Repositório | Foco Principal | Demonstração de Competência |
-| :--- | :--- | :--- |
-| **[Projeto-Conta-Bancaria](https://github.com/deboracamposs/Projeto-Conta-Bancaria---Generation-Brasil)** | TypeScript, POO Avançada | Uso de Design Patterns e Programação Orientada a Objetos em uma arquitetura de sistema robusta. |
-| **[Generation-Brasil-Bootcamp](https://github.com/deboracamposs/Generation-Brasil---Bootcamp-JavaScript-FullStack-Developer-2025)** | Full-Stack, Integração | Habilidade de integrar o Backend (Python) com o Frontend (TS) para criar soluções completas (End-to-End). |
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboracamposs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracamposs&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ---
 
-### 📈 Compromisso e Consistência (Estatísticas)
+### 🚀 Projetos em Destaque
 
-Minha atividade no GitHub reflete meu engajamento e a dedicação contínua ao desenvolvimento de código.
+- **[Projeto E-commerce - Generation Brasil](https://github.com/deboracamposs/Projeto-de-E-commerce---Generation-Brasil):** Aplicação completa desenvolvida durante o bootcamp, focada em CRUD e boas práticas de TypeScript.
+- **[Outro Projeto]:** Breve descrição do que o projeto faz e tecnologias usadas.
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debora-campos-34515a1b9/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](deboraccamposs@gmail.com)
+
+---
 
 <p align="center">
-  <img alt="Débora Campos - Estatísticas do GitHub" 
-       src="https://github-readme-stats.vercel.app/api?username=deboracamposs&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400&hide=stars" <p/>
-
-  <p align="center">
-  <img alt="Linguagens mais usadas" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracamposs&layout=compact&langs_count=8&icons=true&theme=radical&hide_border=true&cache_seconds=86400" />
+  <i>"O sucesso é a soma de pequenos esforços repetidos dia após dia."</i>
 </p>
 
----
-
-### 📞 Conecte-se Comigo
-
-Estou aberta a oportunidades de desenvolvimento desafiadoras e projetos inovadores.
-
-| Meio de Contato | Link |
-| :---: | :---: |
-| **E-mail** | deboraccamposs@gmail.com |
-| **LinkedIn** | https://www.linkedin.com/in/debora-campos-34515a1b9/ |
-
-
-
-<br>
-
-<p align="center">
-  <a href="mailto:deboraccamposs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /></a>
-  <a href="https://www.linkedin.com/in/debora-campos-34515a1b9/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-<h6 align="center">Código limpo, commit significativo, valor entregue.</h6>
