@@ -36,7 +36,7 @@ Sou apaixonada por tecnologia e por transformar ideias em código. Tenho experi�
 ### 🚀 Projetos em Destaque
 
 - **[Projeto E-commerce - Generation Brasil](https://github.com/deboracamposs/Projeto-de-E-commerce---Generation-Brasil):** Aplicação completa desenvolvida durante o bootcamp, focada em CRUD e boas práticas de TypeScript.
-- **[Outro Projeto]:** Breve descrição do que o projeto faz e tecnologias usadas.
+
 
 ---
 
