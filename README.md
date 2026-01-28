@@ -1,4 +1,4 @@
-# Olá, eu sou a Débora Campos! 👋
+# Olá, eu sou Débora Campos! 👋
 
 ### Desenvolvedora Full Stack em constante evolução
 
