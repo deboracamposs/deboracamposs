@@ -24,12 +24,12 @@ Sou apaixonada por tecnologia e por transformar ideias em código. Tenho experi�
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deboracamposs&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deboracamposs&layout=compact&theme=react&hide_langs_below=1" />
 
-![Estatísticas de publicações](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
-
+</div>
 ---
 
 ### 🚀 Projetos em Destaque
