@@ -27,12 +27,6 @@ Sou apaixonada por tecnologia e por transformar ideias em código. Tenho experi�
   ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
----
-
-### 🚀 Projetos em Destaque
-
-- **[Projeto E-commerce - Generation Brasil](https://github.com/deboracamposs/Projeto-de-E-commerce---Generation-Brasil):** Aplicação completa desenvolvida durante o bootcamp, focada em CRUD e boas práticas de TypeScript.
-
 
 ---
 
